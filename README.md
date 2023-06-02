@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 studying Java Script and Cypress.io
+- Experiencia nos processos de qualidade de Software
 
   
   
